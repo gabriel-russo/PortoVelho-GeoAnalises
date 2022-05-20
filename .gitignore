@@ -2,6 +2,7 @@
 /Trânsito/cache
 /Trânsito/*.json
 /Trânsito/*.geojson
+.idea
 # -------
 
 # Byte-compiled / optimized / DLL files
