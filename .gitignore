@@ -1,7 +1,7 @@
 # Projeto
-Trânsito/cache
-Trânsito/*.json
-
+/Trânsito/cache
+/Trânsito/*.json
+/Trânsito/*.geojson
 # -------
 
 # Byte-compiled / optimized / DLL files
